@@ -1,5 +1,6 @@
 aaaaaaaaaaaaaaaa
 bbbbb  edit by master
+bbbbb     edit by hot_fix
 vvvvvzzzzz
 ddsknkcA
 这是a.txt文件的第二次修改
