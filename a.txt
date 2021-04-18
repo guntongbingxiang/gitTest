@@ -1,5 +1,5 @@
 aaaaaaaaaaaaaaaa
-bbbbb
+bbbbb  edit by master
 vvvvvzzzzz
 ddsknkcA
 这是a.txt文件的第二次修改
